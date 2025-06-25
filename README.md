@@ -13,29 +13,31 @@ This repository contains the complete submission materials for both Step 1 and S
 ---
 
 ## 📁 Repository Structure
+
+```
 First-DREAM-Target-2035-Drug-Discovery-Challenge/
 │
 ├── Step1_Fingerprint_Model/
-│ ├── TeamTesseractalGene_Step1_Model1.csv
-│ ├── TeamTesseractalGene_Step1_Model2.csv
-│ ├── TeamTesseractalGene_Step1_Model3.csv
-│ ├── step1_model_training_and_inference.py
-│ └── step1_writeup.md
+│   ├── TeamTesseractalGene_Step1_Model1.csv           # Prediction file 1
+│   ├── TeamTesseractalGene_Step1_Model2.csv           # Prediction file 2
+│   ├── TeamTesseractalGene_Step1_Model3.csv           # Prediction file 3
+│   ├── step1_model_training_and_inference.py          # Full model training and inference code
+│   └── step1_writeup.md                               # Technical write-up for Step 1
 │
 ├── Step2_MAMMAL_Inference/
-│ ├── TeamTesseractalGene_Step2_Model1.csv
-│ ├── TeamTesseractalGene_Step2_Model2.csv
-│ ├── TeamTesseractalGene_Step2_Model3.csv
-│ ├── mammal_inference_colab_pipeline.ipynb
-│ ├── step2_preprocessing.py
-│ ├── figures/
-│ │ ├── code_flow_diagram_step2.png
-│ │ └── model_architecture_mammal.png
-│ └── step2_writeup.md
+│   ├── TeamTesseractalGene_Step2_Model1.csv           # Prediction file 1
+│   ├── TeamTesseractalGene_Step2_Model2.csv           # Prediction file 2
+│   ├── TeamTesseractalGene_Step2_Model3.csv           # Prediction file 3
+│   ├── mammal_inference_colab_pipeline.ipynb          # End-to-end MAMMAL inference notebook
+│   ├── step2_preprocessing.py                         # Preprocessing script for Step 2 data
+│   ├── figures/
+│   │   ├── code_flow_diagram_step2.png                # Visual of code logic for Step 2
+│   │   └── model_architecture_mammal.png              # Pretrained model overview
+│   └── step2_writeup.md                               # Technical write-up for Step 2
 │
-├── LICENSE
-└── README.md ← (you are here)
-
+├── LICENSE                                             # License file (optional)
+└── README.md                                           # Project overview (this file)
+```
 
 ---
 
