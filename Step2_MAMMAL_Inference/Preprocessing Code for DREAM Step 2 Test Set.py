@@ -54,9 +54,8 @@ def canonicalize_smiles(smi):
 
 df["SMILES"] = df["SMILES"].apply(canonicalize_smiles)
 
-# === RE-ASSIGN RANDOM ID if needed ===
-df = df.reset_index(drop=True)
-df["RandomID"] = [f"ID_{i}" for i in range(len(df))]
+# ✅ KEEP original RandomIDs
+df = df.reset_index(drop=True)  # Optional, only if you want clean indexing
 
 # === SAVE CLEANED DATA ===
 df[["RandomID", "SMILES"]].to_csv(output_path, index=False)
