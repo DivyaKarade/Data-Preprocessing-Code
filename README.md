@@ -33,8 +33,8 @@ First-DREAM-Target-2035-Drug-Discovery-Challenge/
 │   ├── code_flow_diagram_step2.png                      # Visual of code logic for Step 2                 
 │   └── step2_writeup.md                                 # Technical write-up for Step 2
 │
-├── LICENSE                                               # License file (optional)
-└── README.md                                             # Project overview (this file)
+├── LICENSE                                              # License file (optional)
+└── README.md                                            # Project overview (this file)
 ```
 
 ---
