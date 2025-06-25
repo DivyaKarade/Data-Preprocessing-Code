@@ -18,25 +18,23 @@ This repository contains the complete submission materials for both Step 1 and S
 First-DREAM-Target-2035-Drug-Discovery-Challenge/
 │
 ├── Step1_Fingerprint_Model/
-│   ├── TeamTesseractalGene_Step1_Model1.csv           # Prediction file 1
-│   ├── TeamTesseractalGene_Step1_Model2.csv           # Prediction file 2
-│   ├── TeamTesseractalGene_Step1_Model3.csv           # Prediction file 3
-│   ├── step1_model_training_and_inference.py          # Full model training and inference code
-│   └── step1_writeup.md                               # Technical write-up for Step 1
+│   ├── TeamTesseractalGene_Step1_Model1.csv             # Prediction file 1
+│   ├── TeamTesseractalGene_Step1_Model2.csv             # Prediction file 2
+│   ├── TeamTesseractalGene_Step1_Model3.csv             # Prediction file 3
+│   ├── Step1_sourcecode-TesseractalGene.py              # Full model training and inference code
+│   └── step1_writeup.md                                 # Technical write-up for Step 1
 │
 ├── Step2_MAMMAL_Inference/
-│   ├── TeamTesseractalGene_Step2_Model1.csv           # Prediction file 1
-│   ├── TeamTesseractalGene_Step2_Model2.csv           # Prediction file 2
-│   ├── TeamTesseractalGene_Step2_Model3.csv           # Prediction file 3
-│   ├── mammal_inference_colab_pipeline.ipynb          # End-to-end MAMMAL inference notebook
-│   ├── step2_preprocessing.py                         # Preprocessing script for Step 2 data
-│   ├── figures/
-│   │   ├── code_flow_diagram_step2.png                # Visual of code logic for Step 2
-│   │   └── model_architecture_mammal.png              # Pretrained model overview
-│   └── step2_writeup.md                               # Technical write-up for Step 2
+│   ├── TeamTesseractalGene_Step2_Model1.csv             # Prediction file 1
+│   ├── TeamTesseractalGene_Step2_Model2.csv             # Prediction file 2
+│   ├── TeamTesseractalGene_Step2_Model3.csv             # Prediction file 3
+│   ├── TesseractalGene_Step2_Workflow.ipynb             # End-to-end MAMMAL inference notebook
+│   ├── Preprocessing Code for DREAM Step 2 Test Set.py  # Preprocessing script for Step 2 data
+│   ├── code_flow_diagram_step2.png                      # Visual of code logic for Step 2                 
+│   └── step2_writeup.md                                 # Technical write-up for Step 2
 │
-├── LICENSE                                             # License file (optional)
-└── README.md                                           # Project overview (this file)
+├── LICENSE                                               # License file (optional)
+└── README.md                                             # Project overview (this file)
 ```
 
 ---
