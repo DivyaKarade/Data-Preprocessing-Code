@@ -96,7 +96,7 @@ Submission CSV contains:
 Our approach relies solely on chemical features (ECFP4) and deep learning to learn activity patterns in a class-imbalanced setup. The model generalised well to unseen data, as reflected by its performance on the hold-out test set.
 We avoided oversampling and instead filtered noise via PCA + Isolation Forest. While this may have reduced coverage of actives, it improved signal purity. Given the sparse actives in the test set, our ranking model was tuned to prioritise precision over recall, helping improve the diversity metric in top selections.
 
-##📚Source Code: [Link to Github file](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/Step1_sourcecode-TesseractalGene.py)
+##📚Source Code: [Link to Github file](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/Step1_Fingerprint_Model/Step1_sourcecode-TesseractalGene.py)
 
 ##✍️ Author Statement
 Dr. Divya Karade designed and implemented the fingerprint-based deep learning pipeline, performed preprocessing, outlier detection, and generated the final submission file.
