@@ -46,7 +46,7 @@ First-DREAM-Target-2035-Drug-Discovery-Challenge/
 - **Evaluation:**
   - Train Accuracy: 97.58%
   - Test Accuracy: 97.50%
-  - ROC-AUC: 0.9483
+  - ROC-AUC: 0.95
 - **Submission Format:** Ranked ~339K molecules with binary labels for top 200 and 500 putative binders.
 
 📄 [Write-up](https://www.synapse.org/Synapse:syn66699721/wiki/633179) | 🧠 [Training Code](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/Step1_Fingerprint_Model/Step1_sourcecode-TesseractalGene.py)
