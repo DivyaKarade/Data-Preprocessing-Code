@@ -49,7 +49,7 @@ First-DREAM-Target-2035-Drug-Discovery-Challenge/
   - ROC-AUC: 0.9483
 - **Submission Format:** Ranked ~339K molecules with binary labels for top 200 and 500 putative binders.
 
-📄 [Write-up](Step1_Fingerprint_Model/step1_writeup.md) | 🧠 [Training Code](Step1_Fingerprint_Model/step1_model_training_and_inference.py)
+📄 [Write-up](https://www.synapse.org/Synapse:syn66699721/wiki/633179) | 🧠 [Training Code](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/Step1_Fingerprint_Model/Step1_sourcecode-TesseractalGene.py)
 
 ---
 
@@ -62,7 +62,7 @@ First-DREAM-Target-2035-Drug-Discovery-Challenge/
 - **Output:** pKd scores (standardized → denormalized → min-max scaled to [0,1])
 - **Submission Format:** Ranked predictions for ~339K molecules with top 50 selected.
 
-📄 [Write-up](Step2_MAMMAL_Inference/step2_writeup.md) | 💻 [Colab Pipeline](Step2_MAMMAL_Inference/mammal_inference_colab_pipeline.ipynb)
+📄 [Write-up](https://www.synapse.org/Synapse:syn66699721/wiki/) | 💻 [Colab Pipeline](https://colab.research.google.com/drive/1E1IWSYazZ2JW4Z1aq2O7wO1jRNiZgNEZ?usp=sharing)
 
 ---
 
