@@ -150,5 +150,5 @@ Divya Karade: Designed and implemented the pipeline, performed preprocessing, ex
 
 ##Source Code
 
-📓 Google Colab Notebook: [Link to Colab Notebook](https://colab.research.google.com/drive/1E1IWSYazZ2JW4Z1aq2O7wO1jRNiZgNEZ?usp=sharing) ; [Link to Github file](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/TesseractalGene_Step2_Workflow.ipynb)
-📓 Preprocessing Code for DREAM Step 2 Test Set: [Link to Github file](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/Preprocessing%20Code%20for%20DREAM%20Step%202%20Test%20Set.py)
+📓 Google Colab Notebook: [Link to Colab Notebook](https://colab.research.google.com/drive/1E1IWSYazZ2JW4Z1aq2O7wO1jRNiZgNEZ?usp=sharing) OR [Link to Github file](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/Step2_MAMMAL_Inference/TesseractalGene_Step2_Workflow.ipynb)
+📓 Preprocessing Code for DREAM Step 2 Test Set: [Link to Github file](https://github.com/DivyaKarade/First-DREAM-Target-2035-Drug-Discovery-Challenge/blob/main/Step2_MAMMAL_Inference/Preprocessing%20Code%20for%20DREAM%20Step%202%20Test%20Set.py)
