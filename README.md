@@ -32,7 +32,7 @@ First-DREAM-Target-2035-Drug-Discovery-Challenge/
 │   ├── Preprocessing Code for DREAM Step 2 Test Set.py  # Preprocessing script for Step 2 data
 │   ├── code_flow_diagram_step2.png                      # Visual of code logic for Step 2                 
 │   └── step2_writeup.md                                 # Technical write-up for Step 2
-│
+├── diversity_selector.py                                # Clustering algorithm to select top diverse compounds
 ├── LICENSE                                              # License file (optional)
 └── README.md                                            # Project overview (this file)
 ```
